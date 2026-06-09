@@ -8,7 +8,7 @@ The dashboard analyzes emissions by location, state, county, population, and emi
 
 ## Dashboard Preview
 
-![EPA Emissions Dashboard](screenshots/emissions_dashboard.png)
+![EPA Emissions Dashboard](screenshots/emissions_dashboard_zoom.png)
 
 ## Tools Used
 
